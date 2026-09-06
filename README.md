@@ -1,1 +1,1 @@
-# agentic-rag-arxiv-with-observability
+# personal-agentic-rag-assistant-with-observability
